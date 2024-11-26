@@ -5,6 +5,9 @@ the Java programming language. Videos are organized by year that they were publi
 yt-java
 |   README.md
 |
+|---2023
+|   |   Videos Published in 2023
+|   |   ...
 |---2024
 |   |   Videos Published in 2024
 |   |   ...
